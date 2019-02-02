@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<calibration_time>"Mon Dec 17 14:54:19 2018"</calibration_time>
+<nr_of_frames>15</nr_of_frames>
+<image_width>4000</image_width>
+<image_height>3000</image_height>
+<board_width>10</board_width>
+<board_height>6</board_height>
+<square_size>30.</square_size>
+<!-- flags: +zero_tangent_dist +fix_k4 +fix_k5 -->
+<flags>6152</flags>
+<fisheye_model>0</fisheye_model>
+<camera_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    4.0288858320447680e+03 0. 1.9634358661792460e+03 0.
+    4.0306587438997967e+03 1.5119166351337367e+03 0. 0. 1.</data></camera_matrix>
+<distortion_coefficients type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    -2.1636377728560902e-01 2.2255739418830600e-01 0. 0.
+    2.2116808664804671e-01</data></distortion_coefficients>
+<avg_reprojection_error>3.3548498421272627e-01</avg_reprojection_error>
+</opencv_storage>

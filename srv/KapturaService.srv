@@ -1,0 +1,6 @@
+string station_version
+float32 speed
+float32 degree
+bool stop
+---
+bool success
